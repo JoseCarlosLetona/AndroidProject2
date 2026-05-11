@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto Android</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="enter">Entrar</string>
+    <string name="android_mascot">Marcianito Android</string>
+</resources>
