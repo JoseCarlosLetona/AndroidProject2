@@ -5,11 +5,11 @@ Proyecto Android completo con soporte para 4 idiomas y adaptación a múltiples 
 ## ✨ Características
 
 - 🌍 **4 idiomas**: Español (default), Inglés, Francés, Alemán
-- 📐 **Layouts adaptables**: Portrait y Landscape
+- 📐 **Layouts adaptables!!!!**: Portrait y Landscape
 - 🖼️ **Fondo nine-patch**: Redimensionable sin deformar el marcianito
 - 📱 **Multi-pantalla**: Funciona en cualquier tamaño y orientación
 
-## 🚀 Cómo usar
+## 🚀 Cómo usar!!!!!
 
 ### Opción 1: Android Studio (Recomendado)
 1. Descarga y descomprime este ZIP
